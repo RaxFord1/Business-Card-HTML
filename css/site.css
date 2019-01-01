@@ -173,6 +173,10 @@ table {
   background-color: #2C3E50;
 }
 
+a:visited {
+  color: #808000; 
+}
+
 #section2 h1 {
   color: #F2F2F2;
 }
